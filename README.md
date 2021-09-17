@@ -1,5 +1,5 @@
 # This project is a group project that I did in university. I have not created the entire project but have worked on it.
-# My contribution to it will be stated in comments and commits.
+# My contribution to it was the graphics of the game: sprites of characters and map in pixel art and the UI of the application.
 
 # Robed
 
